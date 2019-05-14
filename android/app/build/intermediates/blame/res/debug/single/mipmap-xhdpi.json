@@ -2,5 +2,9 @@
     {
         "merged": "/home/dev/todoNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/home/dev/todoNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dev/Downloads/todonova-react-native/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/dev/Downloads/todonova-react-native/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]
